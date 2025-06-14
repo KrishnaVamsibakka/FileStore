@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "7795414140:AAHPYxU-Yc7AJ3KcR-zWZmqFOYd4C_mNItQ"
+      "value": "7672085347:AAEiOie3st0Wd-1I6n_ulTZu0wIIvmjAbmo"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -19,11 +19,11 @@
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": "29055333"
+      "value": "23647104"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "mongodb+srv://anjireddyb98:3qiaVJINXarqFNKp@cluster0.kohnpcd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+      "value": "mongodb+srv://anjireddyb885:MvL27Den1lu7TURr@cluster0.al34wge.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
@@ -31,7 +31,7 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": "a6d154242eaef80a163bf5d0a7763882"
+      "value": "5df7d126ac228cb062a833bcc8c50bcd"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
@@ -48,7 +48,7 @@
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
       "value": "6828129421",
-      "required": false
+      "required": true
     },
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
